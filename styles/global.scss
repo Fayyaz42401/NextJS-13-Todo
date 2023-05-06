@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  transition: 0.2s;
+  border-radius: 4px;
+}
+.btn:hover {
+  color: #000;
+  background-color: #fff;
+}
+
+body {
+  background-color: #efefef;
+}
